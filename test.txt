@@ -2,4 +2,6 @@
 git add
 git commit
 git diff
-git remote addaa
+git remote add
+aaaa
+
